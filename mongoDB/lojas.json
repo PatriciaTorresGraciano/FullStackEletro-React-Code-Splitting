@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "6024ae1a6c78e51a2286015e"
+  },
+  "cidade": "Rio de Janeiro",
+  "endereco": "Avenida Presidente Vargas, 5000",
+  "complemento": "10 º andar",
+  "bairro": "Centro",
+  "telefone": "(21) 3333-3333",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6024ae3f8c4a2e694df83ab8"
+  },
+  "cidade": "São Paulo",
+  "endereco": "Avenida Paulista, 985",
+  "complemento": "3 º andar",
+  "bairro": "Jardins",
+  "telefone": "(11) 4444-4444"
+},{
+  "_id": {
+    "$oid": "6024ae3f8c4a2e694df83ab9"
+  },
+  "cidade": "Santa Catarina",
+  "endereco": "Rua Major Ávila, 370",
+  "complemento": "-",
+  "bairro": "Vila Mariana",
+  "telefone": "(47) 5555-5555"
+}]

@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "60258d8350bfc9f41e011f50"
+  },
+  "categoria_fk": [
+    {
+      "$oid": "6024af984a769c185217495f"
+    }
+  ],
+  "produto_fk": [
+    {
+      "$oid": "6024a9a29171ab0efe32a9e6"
+    }
+  ],
+  "nome_cliente": "Patricia",
+  "endereco": "Rua Das Flores",
+  "telefone": "11111111",
+  "valor_unitario": 6389,
+  "quantidade": 1,
+  "valor_total": 6389,
+  "__v": 0
+}]
